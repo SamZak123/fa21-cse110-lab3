@@ -6,8 +6,8 @@
 - [ ] Member 3
 - [ ] ...
 
-## Progress
+## Progress 
 
 | What did I work on yesterday?   | What am I working on today? | What issues are blocking me? |
 |---------------------------------|-----------------------------|------------------------------|
-|                                 |                             |                              |
+|         lorem ipsum                         |   lorem ipsum                          |   lorem ipsum                           |
